@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [1.142.0](https://github.com/windmill-labs/windmill/compare/v1.141.0...v1.142.0) (2023-08-07)
+
+
+### Features
+
+* add magic tag part ([90dfda0](https://github.com/windmill-labs/windmill/commit/90dfda0d1f00e1f11a82d12d2466eb2252c6e5fb))
+* **frontend:** make diff editor editable ([#1999](https://github.com/windmill-labs/windmill/issues/1999)) ([dee1096](https://github.com/windmill-labs/windmill/commit/dee1096bc0cb094932320c4a7801106a0eba2d59))
+
+
+### Bug Fixes
+
+* refresh token on login and regularly ([9337716](https://github.com/windmill-labs/windmill/commit/933771651e9dde1c3489aaa9f31d9331ac4d5f7f))
+
 ## [1.141.0](https://github.com/windmill-labs/windmill/compare/v1.140.1...v1.141.0) (2023-08-05)
 
 
